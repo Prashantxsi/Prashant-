@@ -8,7 +8,7 @@
 **This Python project is to build a game for a single player that plays against the computer.**
 
 
-# Rules Of The Game :-
+# Rules Of The Game:-
 
 **Snake vs Water → Snake drinks the water, so Snake wins.
 Water vs Gun → Gun will drown in water, so Water wins.
